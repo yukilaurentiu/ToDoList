@@ -1,7 +1,7 @@
 
-# ToDoList
+# ToDoList:scroll::pencil2:
 
-For begginers programming. 
+For begginers programming. <br />
 Handling variables, functions, lists, conditional statements, for and while loops, and getting user input.
 
 I took the course and created a ToDoList, then I arranged them.
